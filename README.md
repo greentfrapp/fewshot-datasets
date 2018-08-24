@@ -1,5 +1,9 @@
 # Few-shot Datasets
 
+Common benchmark datasets and instructions for few-shot learning, adapted from Chelsea Finn's [MAML repo](https://github.com/cbfinn/maml).
+
+**Thanks [@cbfinn](https://github.com/cbfinn/)!**
+
 Note that most of the paths described below originate from the `data` directory.
 
 ## Sinusoid Regression
